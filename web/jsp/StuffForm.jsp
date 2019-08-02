@@ -3,11 +3,11 @@
 
 <!doctype html>
 <html lang="en">
-<%@include file="../jsp/head.jsp"%>
+<%@include file="sp"%>
 <body>
 
 <div class="mdl-layout mdl-js-layout mdl-layout__fixed-header">
-    <%@include file="../jsp/menu.jsp"%>
+    <%@include file="sp"%>
     <main class="mdl-layout__content">
         <div class="page-content">
             <div class="mdl-grid center-items">

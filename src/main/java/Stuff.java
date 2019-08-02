@@ -21,6 +21,14 @@ public class Stuff {
         this.location = location;
     }
 
+    public Stuff( String name, String description, int quantity, String location) {
+
+        this.name = name;
+        this.description = description;
+        this.quantity = quantity;
+        this.location = location;
+    }
+
     public int getId() {
         return id;
     }

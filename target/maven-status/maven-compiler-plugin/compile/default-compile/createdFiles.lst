@@ -1,0 +1,10 @@
+DAOStuff.class
+DataSourceFactory.class
+Stuff.class
+DAOStuff$1.class
+DataSourceFactory$SingletonHelper.class
+DAOStuff$SingletonHelper.class
+StuffDao.class
+Dao.class
+Application.class
+StuffController.class

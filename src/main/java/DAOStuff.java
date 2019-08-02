@@ -16,7 +16,7 @@ public class DAOStuff implements StuffDao{
         private static final DAOStuff INSTANCE = new DAOStuff();
     }
 
-    private static DAOStuff getInstance(){
+    protected static DAOStuff getInstance(){
         return SingletonHelper.INSTANCE;
     }
 
