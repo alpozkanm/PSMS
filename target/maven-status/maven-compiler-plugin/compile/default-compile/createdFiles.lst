@@ -6,5 +6,5 @@ DataSourceFactory$SingletonHelper.class
 DAOStuff$SingletonHelper.class
 StuffDao.class
 Dao.class
-Application.class
 StuffController.class
+Application.class
